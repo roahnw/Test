@@ -18,10 +18,8 @@
 *.zip
 *.tar.gz
 *.rar
-<<<<<<< HEAD
 .idea
 =======
->>>>>>> c4bf5d3 (Initial commit)
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
